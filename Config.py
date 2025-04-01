@@ -3,7 +3,7 @@
 import os
 
 # Bot token from @botfather
-BOT_TOKEN = ""
+BOT_TOKEN = "7240304290:AAE29GPh5kB3IAo7jPWLrAam2R341UHeIYw"
 # From my.telegram.org/
 API_ID = "26121146"
 API_HASH =  "985f3a097d33e1eb0e555bfd040d3ebf"
@@ -15,8 +15,3 @@ AUTH_USERS = [6066102279]
 TIME_GAP = 0
 BOT_USERNAME='Iptvsharkbot' #bot username without@
 API_TOKEN='b7d9e1f7-12a6-4b8e-89a2-c3d124e5f6a7' #don't change this without developer permission
-
-
-
- 
-7240304290:
